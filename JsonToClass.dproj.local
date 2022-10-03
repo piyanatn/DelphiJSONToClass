@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/16 11:18:31.000.357,=C:\Users\piyanat\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2022/10/03 09:30:37.000.023,=C:\Users\piyanat\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2022/10/03 14:59:50.083,=C:\Users\piyanat\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2022/10/03 15:20:07.098,C:\Users\piyanat\Documents\Embarcadero\Studio\Projects\JsonToClass.dproj=C:\Users\piyanat\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>2022/10/03 15:20:37.716,C:\Users\piyanat\Documents\Embarcadero\Studio\Projects\JsonToDelphi\Unit5.dfm=C:\Users\piyanat\Documents\Embarcadero\Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>2022/10/03 15:20:37.716,C:\Users\piyanat\Documents\Embarcadero\Studio\Projects\JsonToDelphi\Unit5.pas=C:\Users\piyanat\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2022/10/03 15:20:40.248,C:\Users\piyanat\Documents\Embarcadero\Studio\Projects\JsonToDelphi\JsonToClass.dproj=C:\Users\piyanat\Documents\Embarcadero\Studio\Projects\JsonToClass.dproj</Transaction>
+    <Transaction>2022/10/03 15:20:47.760,C:\Users\piyanat\Documents\Embarcadero\Studio\Projects\JsonToDelphi\MainU.pas=C:\Users\piyanat\Documents\Embarcadero\Studio\Projects\JsonToDelphi\Unit5.pas</Transaction>
+    <Transaction>2022/10/03 15:20:47.760,C:\Users\piyanat\Documents\Embarcadero\Studio\Projects\JsonToDelphi\MainU.dfm=C:\Users\piyanat\Documents\Embarcadero\Studio\Projects\JsonToDelphi\Unit5.dfm</Transaction>
+    <Transaction>2022/10/03 15:21:24.030,=C:\Users\piyanat\Documents\Embarcadero\Studio\Projects\JsonToDelphi\Pkg.Json.DTO.pas</Transaction>
+    <Transaction>2022/10/03 15:21:24.057,=C:\Users\piyanat\Documents\Embarcadero\Studio\Projects\JsonToDelphi\RootUnit.pas</Transaction>
+    <Transaction>2022/10/03 17:32:47.637,=C:\Users\piyanat\Documents\Embarcadero\Studio\Projects\JsonToDelphi\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
